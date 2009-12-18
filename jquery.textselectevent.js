@@ -3,8 +3,9 @@
  * Licensed under the MIT license
  * http://www.opensource.org/licenses/mit-license.php
  *
- * Contact: peolanha _AT gmail _DOT com
- *          http://andreehansson.se/
+ * Contact: E-mail:  peolanha _AT gmail _DOT com
+ *          Twitter: peolanha
+ *          Website: http://andreehansson.se/
  */
 (function ($) {
 	var

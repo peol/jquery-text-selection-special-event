@@ -38,7 +38,7 @@
 		getOrigin = function (input) {
 			return docSel && docSel.createRange().parentElement()
 				|| input
-				|| winSel && winSel.getRangeAt(0).commonAncestorContainer
+				|| winSel && winSel.rangeCount && winSel.getRangeAt(0).commonAncestorContainer
 				|| document.body;
 		},
 
